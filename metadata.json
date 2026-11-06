@@ -1,0 +1,6 @@
+{
+  "name": "Tripo3D Local",
+  "description": "Local On-Device AI 3D Generator like Tripo3D converting images and text to 3D models offline",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
